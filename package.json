@@ -1,0 +1,19 @@
+{
+  "name": "starterpack-johan_cruzhernandez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "starterpack-Johan_CruzHernandez"
+  },
+  "author": "Johan Cruz Hernandez",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^4.2.1"
+  }
+}
